@@ -1,0 +1,22 @@
+{
+  "wheel_id": 611,
+  "structure": "umbrella",
+  "slug": "westernsydneyhomeloanbroker-com-108",
+  "project": "home-loan-broker-western-sydney-glossary-fb4a332568a29ed0df6",
+  "parent_t1_ref": "westernsydneyhomeloanbroker-com-153",
+  "node_role": "feeder",
+  "money_target": "westernsydneyhomeloanbroker.com.au",
+  "primary_kw": "home loan broker western sydney glossary",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-broker-western-sydney-glossary-fb4a332568a29ed0df6/",
+  "tier": "T2",
+  "writeback_nonce": "36a39d6fab88b946",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-loan-broker-western-sydney-6f8d8424d18793497532fdabcdd7089/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
